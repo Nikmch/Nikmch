@@ -3,7 +3,7 @@
 [![An image of @nikmch's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikmch)](https://holopin.io/@nikmch)
 
 - 🌱 I’m currently learning React
-- You can check out my personal Portfolio site at https://vercel.com/nikmch/my-portfolio/ERpxBhuNwjWpwS1PF53V9j56RCHZ
+- You can check out my personal Portfolio site at https://my-portfolio-pearl-sigma-47.vercel.app/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Your brain generates as much energy as a small light bulb even when you're sleeping.
 <!--
